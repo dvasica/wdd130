@@ -71,9 +71,9 @@ nav a:hover{background-color:#d4a0a7;
     line-height: 1.5em;
 }
 footer{
-    background-color:#d4a0a7;
-    text-decoration: none;
-    text-align: center;
+    
+    text-decoration: solid
+    
 }
 
 nav a{
@@ -118,11 +118,11 @@ footer h3{
     color: white;
 }
 footer a{
-    background-color: #ce736c;
+
     color: white;
 }
 footer a:hover{
-    background-color: #ce736c;
+
     color: white;
 }
 
@@ -178,6 +178,8 @@ footer  {
 }
 footer .social img   {
     padding-top: 15px;
+    align-items: left;
+    align-content: left;
 }
 .book, .join {
     background-color: #d9c2a3;
@@ -200,6 +202,9 @@ footer .social img   {
 }
 footer   {
     margin-top:200px;
+    text-align: left;
+    align-items: left;
+    align-content: left;
 }
 .card-img {
     border: 10px solid #d9c2a3;
