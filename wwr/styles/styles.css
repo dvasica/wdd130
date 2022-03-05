@@ -49,8 +49,10 @@ main section{
     box-sizing: border-box;
 }
 #background{
-   height: columns 1 to 11
-   rows 4 to 9;
+    grid-column:1/11 ;
+    grid-row: 4/9;
+   /* height: columns 1 to 11 */
+   /* rows 4 to 9; */
 }
 
 body{background-color:#d4a0a7;
