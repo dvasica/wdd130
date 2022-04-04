@@ -36,6 +36,19 @@ body {
   font-size: 18px;
   text-align: center;
 }
+#page2 {
+  align-items: center;
+  width: 50%;
+}
+
+#page1 {
+  align-items: center;
+  width: 50%;
+}
+#homepage {
+  align-items: center;
+  width: 50%;
+}
 img {
   display: block;
   margin: 0 auto;
